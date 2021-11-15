@@ -1,7 +1,7 @@
 {
 "tmin": 800,
 "tmax": 1200,
-"lognmin": 20.3,
+"lognmin": 19,
 "lognmax": 21.3,
 "logomegamin": -16.5,
 "logomegamax": -15.15,
