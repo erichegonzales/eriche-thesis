@@ -1,9 +1,9 @@
 {
 "tmin": 2000,
 "tmax": 9000,
-"lognmin": 22,
+"lognmin": 22.2,
 "lognmax": 24.8,
-"logomegamin": -18,
+"logomegamin": -18.2,
 "logomegamax": -15.8,
 "Nwalkers": 20,
 "Nburnin": 1000,
